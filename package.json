@@ -1,0 +1,33 @@
+{
+  "name": "@lifeiscontent/postcss-rem-function",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to add rem function to easily calculate rem values",
+  "main": "index.js",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "rem",
+    "responsive",
+    "typography"
+  ],
+  "author": "Aaron Reisman <aaron@lifeiscontent.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifeiscontent/postcss-rem-function"
+  },
+  "bugs": {
+    "url": "https://github.com/lifeiscontent/postcss-rem-function/issues"
+  },
+  "homepage": "https://github.com/lifeiscontent/postcss-rem-function",
+  "dependencies": {
+    "postcss": "7.x"
+  },
+  "devDependencies": {
+    "jest": "26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
