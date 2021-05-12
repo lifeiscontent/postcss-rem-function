@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/lifeiscontent/postcss-rem-function",
   "dependencies": {
-    "postcss": "7.x"
+    "postcss": "8.x"
   },
   "devDependencies": {
     "jest": "26.1.0"
